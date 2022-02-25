@@ -1,0 +1,5 @@
+task.c:43:6:USER_THREADS	16	static
+task.c:62:13:TaskMain	32	static
+task.c:109:13:Task1	24	static
+task.c:137:13:Task2	24	static
+task.c:163:6:vApplicationIdleHook	8	static
